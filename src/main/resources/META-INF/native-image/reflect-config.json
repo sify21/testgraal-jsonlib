@@ -1,0 +1,149 @@
+[
+{
+  "name":"boolean[]"
+},
+{
+  "name":"byte[]"
+},
+{
+  "name":"char[]"
+},
+{
+  "name":"double[]"
+},
+{
+  "name":"float[]"
+},
+{
+  "name":"int[]"
+},
+{
+  "name":"java.lang.Boolean"
+},
+{
+  "name":"java.lang.Boolean[]"
+},
+{
+  "name":"java.lang.Byte"
+},
+{
+  "name":"java.lang.Byte[]"
+},
+{
+  "name":"java.lang.Character"
+},
+{
+  "name":"java.lang.Character[]"
+},
+{
+  "name":"java.lang.Class"
+},
+{
+  "name":"java.lang.Class[]"
+},
+{
+  "name":"java.lang.Double"
+},
+{
+  "name":"java.lang.Double[]"
+},
+{
+  "name":"java.lang.Float"
+},
+{
+  "name":"java.lang.Float[]"
+},
+{
+  "name":"java.lang.Integer"
+},
+{
+  "name":"java.lang.Integer[]"
+},
+{
+  "name":"java.lang.Long"
+},
+{
+  "name":"java.lang.Long[]"
+},
+{
+  "name":"java.lang.Object"
+},
+{
+  "name":"java.lang.Short"
+},
+{
+  "name":"java.lang.Short[]"
+},
+{
+  "name":"java.lang.String"
+},
+{
+  "name":"java.lang.String[]"
+},
+{
+  "name":"java.lang.Thread",
+  "methods":[{"name":"getContextClassLoader","parameterTypes":[] }]
+},
+{
+  "name":"java.math.BigDecimal"
+},
+{
+  "name":"java.math.BigDecimal[]"
+},
+{
+  "name":"java.math.BigInteger"
+},
+{
+  "name":"java.math.BigInteger[]"
+},
+{
+  "name":"java.util.List"
+},
+{
+  "name":"long[]"
+},
+{
+  "name":"net.sf.ezmorph.object.BooleanObjectMorpher",
+  "methods":[{"name":"morph","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"net.sf.ezmorph.object.CharacterObjectMorpher",
+  "methods":[{"name":"morph","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"net.sf.ezmorph.object.ClassMorpher",
+  "methods":[{"name":"morph","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"net.sf.ezmorph.object.NumberMorpher",
+  "methods":[{"name":"morph","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"net.sf.ezmorph.object.StringMorpher",
+  "methods":[{"name":"morph","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"net.sf.json.AbstractJSON"
+},
+{
+  "name":"org.apache.commons.logging.LogFactory"
+},
+{
+  "name":"org.apache.commons.logging.impl.Jdk14Logger",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"org.apache.commons.logging.impl.Log4JLogger"
+},
+{
+  "name":"org.apache.commons.logging.impl.LogFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.commons.logging.impl.WeakHashtable",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"short[]"
+}
+]
